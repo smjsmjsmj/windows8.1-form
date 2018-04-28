@@ -1,0 +1,8 @@
+c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\ARM\Debug\App.g.i.cs
+c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\ARM\Debug\App.g.cs
+c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\ARM\Debug\MainPage.g.i.cs
+c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\ARM\Debug\MainPage.g.cs
+c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\ARM\Debug\App.xaml
+c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\ARM\Debug\App.xbf
+c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\ARM\Debug\XamlSaveStateFile.xml

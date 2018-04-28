@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MININT-BPCM41C</Machine>
+    <WindowsUser>v-misun</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>09862871-11a5-448b-bebd-83b71e8d6e91</PackageIdentityName>
+    <PackageIdentityPublisher>CN=v-misun</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>CABF8E519918A94A9D134DC9781F48F2CED312363928BD8262F89AAF5B3CA24A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>09862871-11a5-448b-bebd-83b71e8d6e91_1.0.0.0_x86__zmx5edey7zhet</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>09862871-11a5-448b-bebd-83b71e8d6e91_zmx5edey7zhet!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>09862871-11a5-448b-bebd-83b71e8d6e91</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=v-misun</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-28T04:13:27.969</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\bin\x86\Debug\Demo.Windows.exe">
+      <PackagePath>Demo.Windows.exe</PackagePath>
+      <Modified>2018-04-28T06:06:27.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\bin\x86\Debug\Demo.Windows.xr.xml">
+      <PackagePath>Demo.Windows.xr.xml</PackagePath>
+      <Modified>2018-04-28T06:06:27.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-04-28T04:13:24.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-04-28T06:06:27.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\v-misun\documents\visual studio 2015\Projects\Demo\Demo\Demo.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-28T04:13:26.781</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
